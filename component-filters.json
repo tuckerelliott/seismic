@@ -15,8 +15,7 @@
       "text",
       "image",
       "button",
-      "title",
-      "blockquote"
+      "title"
     ]
   },
   {
@@ -28,8 +27,7 @@
       "title",
       "hero",
       "cards",
-      "columns",
-      "blockquote"
+      "columns"
     ]
   },
   {
