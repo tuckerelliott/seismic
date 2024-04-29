@@ -1,7 +1,2 @@
 mountpoints:
-  # /: https://adobe.sharepoint.com/:f:/r/sites/Solution-LedMSCTeam/Shared%20Documents/General/Edge%20Delivery%20Projects/seismic
-
-  /:
-    url: https://author-p99452-e916802.adobeaemcloud.com/bin/franklin.delivery/tuckerelliott/seismic/main
-    type: markup
-    suffix: ".html"
+  /: https://adobe.sharepoint.com/:f:/r/sites/Solution-LedMSCTeam/Shared%20Documents/General/Edge%20Delivery%20Projects/seismic
