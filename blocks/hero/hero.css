@@ -41,3 +41,9 @@ main .hero-container {
   text-align: left;
   font-size: 1.5rem;
 }
+
+.hero a.button:any-link {
+  background-color: transparent;
+  border: 2px solid #FFF;
+  font-size: 1rem;
+}
