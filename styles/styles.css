@@ -247,9 +247,8 @@ main .section.highlight {
 main .section.result {
   background-color: #22092b;
   color: #fff;
-  width: 1400px;
+  width: 1200px;
   margin-left: auto;
   margin-right: auto;
   border-radius: 30px;
-  max-width: 1200px;
 }
