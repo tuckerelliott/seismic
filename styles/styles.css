@@ -244,6 +244,13 @@ main .section.highlight {
   text-align: left;
 }
 
+.default-content-wrapper p picture {
+  display: block;
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+
 .default-content-wrapper h2 {
   text-align: left;
 }
