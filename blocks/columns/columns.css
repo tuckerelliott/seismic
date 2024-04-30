@@ -46,3 +46,9 @@
 main .section.highlight.columns-container img {
   width: 50%;
 }
+
+.columns.stories > div > div {
+  background-color: #FFF;
+  padding: 30px;
+  border-radius: 30px;
+}

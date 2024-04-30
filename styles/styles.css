@@ -52,6 +52,7 @@
 --overlay-background-color: #eeeeee;
 --highlight-background-color: #cccccc;
 --light-color: #e7f5f6;
+--dark-color: #d2d2d2;
 
 /* sizes */
 --heading-font-size-xxl: 48px;
@@ -237,4 +238,17 @@ main .section {
 main .section.light,
 main .section.highlight {
   background-color: var(--light-color);
+}
+
+.default-content-wrapper p {
+  text-align: left;
+}
+
+main .section.result {
+  background-color: #22092b;
+  color: #fff;
+  width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
 }

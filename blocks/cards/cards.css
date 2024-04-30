@@ -8,7 +8,6 @@
 }
 
 .cards > ul > li {
-  border: 1px solid var(--dark-color);
   background-color: var(--background-color)
 }
 
@@ -30,4 +29,15 @@
   object-fit: cover; */
   border-radius: 30px;
   height: 192px;
+}
+
+.cards.stories > ul > li  {
+  border-radius: 30px;
+  border: 1px solid var(--dark-color);
+}
+
+.cards.stories > ul > li img {
+  width: 50%;
+  aspect-ratio: 4 / 3;
+  object-fit: scale-down;
 }
